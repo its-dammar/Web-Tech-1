@@ -11,6 +11,9 @@ You can use lists, code, or paragraphs.
 
 - List item
 - Another item
+  ```
+  HELLO
+  ```
 
 </details>
 
