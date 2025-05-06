@@ -3,30 +3,8 @@
 
 ## **1.1 Introduction to Internet, WWW, Web Browser, Web Servers, URL**
 
-▶ **Section Title**
 
-    This is the symbolic dropdown content.
-    - You can indent it
-    - Or use bullet points
-
-▼ **Section Title (Expanded)**
-
-    - This could represent opened dropdowns
-
-
-<details>
-<summary>Dropdown Title</summary>
-
-Content inside the dropdown goes here.  
-You can use lists, code, or paragraphs.
-
-- List item
-- Another item
-
-
-</details>
-
-[+] **Internet**
+### **Internet**
 
 * **Definition:** A global network of interconnected computers that communicate using standardized protocols to share information.
 * **History:** Evolved from ARPANET in the 1960s by the U.S. Department of Defense.
