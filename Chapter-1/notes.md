@@ -1,14 +1,13 @@
-Here's a detailed explanation of each topic in your outline, suitable for **Bachelor-level students**, covering concepts from the **Introduction to the Internet and Web** module:
 
 ---
 
 ## **1.1 Introduction to Internet, WWW, Web Browser, Web Servers, URL**
 
-### **Internet**
+[+] **Internet**
 
 * **Definition:** A global network of interconnected computers that communicate using standardized protocols to share information.
 * **History:** Evolved from ARPANET in the 1960s by the U.S. Department of Defense.
-* **Functions:**
+ **Functions:**
 
   * Email communication
   * Browsing websites
