@@ -3,6 +3,17 @@
 
 ## **1.1 Introduction to Internet, WWW, Web Browser, Web Servers, URL**
 
+▶ **Section Title**
+
+    This is the symbolic dropdown content.
+    - You can indent it
+    - Or use bullet points
+
+▼ **Section Title (Expanded)**
+
+    - This could represent opened dropdowns
+
+
 <details>
 <summary>Dropdown Title</summary>
 
@@ -11,9 +22,7 @@ You can use lists, code, or paragraphs.
 
 - List item
 - Another item
-  ```
-  HELLO
-  ```
+
 
 </details>
 
