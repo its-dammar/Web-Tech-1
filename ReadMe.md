@@ -1,5 +1,5 @@
 
-```
+```plaintext
 
 PHP-Course
 │
