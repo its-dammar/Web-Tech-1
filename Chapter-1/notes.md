@@ -3,6 +3,17 @@
 
 ## **1.1 Introduction to Internet, WWW, Web Browser, Web Servers, URL**
 
+<details>
+<summary>Dropdown Title</summary>
+
+Content inside the dropdown goes here.  
+You can use lists, code, or paragraphs.
+
+- List item
+- Another item
+
+</details>
+
 [+] **Internet**
 
 * **Definition:** A global network of interconnected computers that communicate using standardized protocols to share information.
