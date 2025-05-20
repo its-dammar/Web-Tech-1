@@ -1,40 +1,5 @@
 
 ```plaintext
-
-PHP-Course
-│
-├── 📁 [Unit-1 - Introduction to PHP and Server-side Scripting](Unit-1)
-│   ├── [Assignment](Unit-1/Assignment/assignment-1.md)
-│   └── [Notes](Unit-1/Notes/Notes.md)
-│
-├── 📁 [Unit-2 - Control Structures and Loops](Unit-2)
-│   ├── [Assignment](Unit-2/Assignment/assignment-2.md)
-│   └── [Notes](Unit-2/Notes/Notes.md)
-│
-├── 📁 [Unit-3 - Arrays and Functions](Unit-3)
-│   ├── [Assignment](Unit-3/Assignment/assignment-3.md)
-│   └── [Notes](Unit-3/Notes/Notes.md)
-│
-├── 📁 [Unit-4 - Form Handling and Data Validation](Unit-4)
-│   ├── [Assignment](Unit-4/Assignment/assignment-4.md)
-│   └── [Notes](Unit-4/Notes/Notes.md)
-│
-├── 📁 [Unit-5 - File Handling](Unit-5)
-│   ├── [Assignment](Unit-5/Assignment/assignment-5.md)
-│   └── [Notes](Unit-5/Notes/Notes.md)
-│
-├── 📁 [Unit-6 - Sessions and Cookies](Unit-6)
-│   ├── [Assignment](Unit-6/Assignment/assignment-6.md)
-│   └── [Notes](Unit-6/Notes/Notes.md)
-│
-├── 📁 [Unit-7 - Working with Databases (MySQL)](Unit-7)
-│   ├── [Assignment](Unit-7/Assignment/assignment-7.md)
-│   └── [Notes](Unit-7/Notes/Notes.md)
-│
-└── 📁 [Unit-8 - Advanced PHP Concepts and Framework Overview](Unit-8)
-    ├── [Assignment](Unit-8/Assignment/assignment-8.md)
-    └── [Notes](Unit-8/Notes/Notes.md)
-
 ---
 
 ### 📁 Unit 1: Basic Concept \[3 Hrs]
