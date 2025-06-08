@@ -14,8 +14,6 @@
 6. **Handwritten HTML Code Snippet**
 7. **Expected Output Sketch (UI Layout Drawing)**
 8. **Result/Conclusion**
-9. **Exam-Focused Viva Questions (2–3 per lab)**
-10. **Remarks/Signature**
 
 ---
 

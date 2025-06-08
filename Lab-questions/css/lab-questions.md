@@ -19,7 +19,6 @@
 7. **UI Design Sketch/Layout (hand-drawn)**
 8. **Output/Result**
 9. **Conclusion**
-10. **Viva Questions (2–3)**
 
 ---
 
